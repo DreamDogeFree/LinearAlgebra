@@ -1,0 +1,13 @@
+# 构建目录
+build/
+
+# 编译产物
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.lib
+*.exp
+
+# VS / VS Code 本地配置
+.vs/
